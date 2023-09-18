@@ -1,0 +1,8 @@
+// include all the filepaths that you want to be restricted
+{
+  "watched_paths": [
+    "/app/index.js",
+    "/app/package.json",
+    "/flag"
+  ]
+}
